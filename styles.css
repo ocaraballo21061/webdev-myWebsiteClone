@@ -1,1 +1,25 @@
-/* CSS CODE HERE */
+#prenavbar{
+    width: 1248px;
+    height: 30px;
+    background-color: white;
+    display: inline-block;
+}
+
+
+#signin{
+    display: inline;
+}
+ul{
+    list-style: none;
+    display: inline;
+    
+}
+li{
+    display: inline;
+    
+}
+#daily{
+    border-left: 1px solid rgb(229, 229, 229);
+    padding: 10px;
+    height: 5px;
+}
