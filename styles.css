@@ -3,6 +3,10 @@
     height: 30px;
     background-color: white;
     display: inline-block;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 14px;
+    
 }
 
 
@@ -12,14 +16,28 @@
 ul{
     list-style: none;
     display: inline;
+    padding: ;
     
 }
 li{
     display: inline;
+}
+ .pre{
+    height: 10px;
+    width: 100px;
+    border-left: 1px solid rgb(229, 229, 229);
+    padding-left: 10px;
+    padding-right: 5px;
+    display: inline-block;
+    line-height: 12px;
     
 }
-#daily{
-    border-left: 1px solid rgb(229, 229, 229);
-    padding: 10px;
-    height: 5px;
-}
+
+  #daily{
+      width: 68px;
+  }
+  #brand{
+      width: 63px;
+  }
+
+
