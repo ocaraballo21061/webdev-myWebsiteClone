@@ -5,22 +5,24 @@
     display: inline-block;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-    font-size: 14px;
-    
+    font-size: 14px; 
+   
 }
 
 
 #signin{
-    display: inline;
+    display: inline-block;
+    padding-left: 40px;
+   
 }
 ul{
     list-style: none;
     display: inline;
-    padding: ;
+    padding-left: 10px;
     
 }
 li{
-    display: inline;
+    display: inline-block;
 }
  .pre{
     height: 10px;
@@ -31,13 +33,28 @@ li{
     display: inline-block;
     line-height: 12px;
     
+
+    
+    
 }
 
   #daily{
       width: 68px;
   }
   #brand{
-      width: 63px;
+      width: 75px;
   }
+#sell{
+    height: 10px;
+    width: 35px;
+    border-right: 1px solid rgb(144, 144, 144);
+    padding-left: 300px;
+    display: inline-block;
+    line-height: 12px;
+    padding-top: 8px;
 
+}
 
+body{
+    margin: 0px;
+}
