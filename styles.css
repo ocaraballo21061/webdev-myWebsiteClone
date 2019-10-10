@@ -1,5 +1,5 @@
 #prenavbar{
-    width: 1248px;
+    width: 100vw;
     height: 30px;
     background-color: white;
     display: inline-block;
@@ -12,7 +12,7 @@
 
 #signin{
     display: inline-block;
-    padding-left: 40px;
+    padding-left: 240px;
    
 }
 ul{
@@ -31,13 +31,11 @@ li{
     padding-left: 10px;
     padding-right: 5px;
     display: inline-block;
-    line-height: 12px;
-    
-
-    
-    
+    line-height: 12px;  
 }
-
+#my{
+    border: 0px;
+}
   #daily{
       width: 68px;
   }
@@ -48,7 +46,7 @@ li{
     height: 10px;
     width: 35px;
     border-right: 1px solid rgb(144, 144, 144);
-    padding-left: 300px;
+    padding-left: 250px;
     display: inline-block;
     line-height: 12px;
     padding-top: 8px;
@@ -57,4 +55,12 @@ li{
 
 body{
     margin: 0px;
+}
+#cart{
+    padding-left: 20px;
+}
+#navbar{
+    width: 100vw;
+    height: 110px;
+    background-color: black;
 }
