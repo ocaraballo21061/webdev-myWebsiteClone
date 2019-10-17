@@ -98,6 +98,7 @@ body{
     border-top: 1px solid black;
     text-align: center;
     margin-left: 8px;
+    margin-left: 320px;
 }
 #list3 li{
     padding: 9px;
@@ -129,6 +130,7 @@ body{
     height: 80px;
     background-color: purple;
     text-align: left;
+    color: white;
 }
 #sellnow{
  margin-bottom: 0px;   
@@ -183,6 +185,7 @@ body{
     background-repeat: no-repeat;
     text-align: left;
     margin-left: 400px;
+    color: white;
 }
 #featuredimages{
 
