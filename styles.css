@@ -122,7 +122,7 @@ body{
     border-top: 1px solid black;
     text-align: center;
     margin-left: 8px;
-    margin-left: 125px;
+    margin-left: 315px;
 }
 #list3 li{
     padding: 9px;
@@ -149,7 +149,7 @@ body{
 
 #purplebox{
     margin-top: 30px;
-    margin-left: 350px;
+    margin-left: 550px;
     width: 800px;
     height: 80px;
     background-color: purple;
@@ -209,7 +209,7 @@ body{
     background-image: url(images/purplebox-jersey-ebay.png);
     background-repeat: no-repeat;
     text-align: left;
-    margin-left: 80px;
+    margin-left: 300px;
     color: white;
 }
 #featuredimages{
