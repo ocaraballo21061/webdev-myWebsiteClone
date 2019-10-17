@@ -6,13 +6,19 @@
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     font-size: 14px; 
+    font-family: "Helvetica Neue"
    
+}
+#anything{
+    font-family: "Helvetica Neue";
+    color: gray;
+    font-weight: 0px;
 }
 
 
 #signin{
     display: inline-block;
-    padding-left: 240px;
+    padding-left: 40px;
    
 }
 ul{
@@ -65,6 +71,7 @@ body{
     display: inline-block;
 }
 #main{
+    padding-top: 20px;
     width: 120px;
     height: 50px;
   display: inline-block
@@ -83,22 +90,39 @@ body{
     vertical-align: middle;
 }
 #subsearch {
+    height: 40px;
+    padding-bottom: 0px;
+    padding-top: 10px;
     margin-left: 600px;
     border-left: 1px solid gray;
     
 }
+.allarrow{
+    display: inline
+}
+#advanced{
+    font-size: 10px
+}
 #searchbutton{
     width: 136px;
     height: 50px;
-    background-color: rgb(54, 101, 243)
+    background-color: rgb(54, 101, 243);
+    color: white;
+    font-weight: normal;
+    display: inline;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
 }
 #navbar3{
-    width: 1400px;
+    width: 1200px;
     height: 30px;
     border-top: 1px solid black;
     text-align: center;
     margin-left: 8px;
-    margin-left: 320px;
+    margin-left: 125px;
 }
 #list3 li{
     padding: 9px;
@@ -125,8 +149,8 @@ body{
 
 #purplebox{
     margin-top: 30px;
-    margin-left: 450px;
-    width: 1250px;
+    margin-left: 350px;
+    width: 800px;
     height: 80px;
     background-color: purple;
     text-align: left;
@@ -146,7 +170,8 @@ body{
     display: inline-block;
 }
 #seetrends{
-    display: inline-block;
+    display: inline;
+    padding-left: 50px;
 }
 #trendimages{
     display: inline-block;
@@ -184,7 +209,7 @@ body{
     background-image: url(images/purplebox-jersey-ebay.png);
     background-repeat: no-repeat;
     text-align: left;
-    margin-left: 400px;
+    margin-left: 80px;
     color: white;
 }
 #featuredimages{
