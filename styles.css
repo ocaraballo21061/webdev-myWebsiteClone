@@ -109,20 +109,172 @@ body{
   
 }
 #hero{
-    padding-right: 130px;
+    margin-right: 80px;
 }
 .left{
-    float: left;
+    float: left
 }
 #imagelist{
-    float: left;
-    margin-left: 100px;
+   
+    
 }
-#imagelist li{
-padding: 10px;
+#imagelist img{
+    padding: 5px;
 }
+
 #purplebox{
-    width: 1046px;
+    margin-top: 30px;
+    margin-left: 450px;
+    width: 1250px;
     height: 80px;
     background-color: purple;
+    text-align: left;
 }
+#sellnow{
+ margin-bottom: 0px;   
+}
+#pad{
+ margin-top: 5px;
+}
+#earning{
+    float: right;
+    display: block;
+}
+#trend{
+    display: inline-block;
+}
+#seetrends{
+    display: inline-block;
+}
+#trendimages{
+    display: inline-block;
+}
+.number{
+    
+    display: inline;
+}
+.name{
+   display: inline;
+}
+.views{
+   display: inline;
+}
+#dealslist {
+    display: inline-block;
+}
+#dealslist li{
+    padding: 10px;
+}
+.price{
+    padding-right: 120px;
+}
+.originalprice{
+    display: inline;
+    padding-right: 20px;
+    margin-left: 20px;
+    text-decoration: line-through;;
+}
+.discount{
+    display: inline;
+    
+}
+#nbabox{
+    background-image: url(images/purplebox-jersey-ebay.png);
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-left: 400px;
+}
+#featuredimages{
+
+}
+#footer{
+    border-top: 1px black solid;
+    
+    
+}
+
+#footerlist1 li{
+    display: block;
+    padding-bottom: 10px;
+}
+#footerlist1{
+    display: inline-block;
+    text-align: justify;
+    padding-bottom: 100px;
+    }
+    #footerlist2{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist3{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist4{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist5{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist6{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist7{
+        display: inline-block;
+        text-align: justify;
+        padding: 20px;
+    }
+    #footerlist8{
+        display: inline-block;
+        padding-left: 1075px;
+    
+    }
+
+#footerlist2 li{
+        display: block;
+        padding-bottom: 10px;
+    }
+    #footerlist3 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    #footerlist4 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    #footerlist5 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    #footerlist6 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    #footerlist7 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    #footerlist8 li{
+        display: block;
+        padding-bottom: 10px;
+        
+    }
+    .title{
+        font-weight: bold;
+    }
+    .space{
+        padding-top: 50px;
+    }
